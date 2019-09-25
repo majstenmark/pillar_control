@@ -7,6 +7,8 @@ Connect to raspberry pi:
 
 ssh -Y pi@192.168.1.12
 
+Type password.
+
 Navigate to this folder:
 
 cd pillar_control

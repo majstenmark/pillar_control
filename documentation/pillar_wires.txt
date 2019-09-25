@@ -1,0 +1,23 @@
+Here we describe the wires that come out directly from the pillar
+(inside a thicker wire, which we cut at its end), and how to 
+connect them to the control card inside the box that contains 
+the transformer.
+
+Warning: The supply voltage for the pillar is 24V. Never connect 24V to the potentiometer, which is fed by 5.5V.
+
+We use this formatting formating:
+Wire appearance - wire function - port on card to connect to (1-14, printed on the card).
+
+First, let's consider the supply voltage from the transformer.
+Black wire from Linak transformer - supply 0V - Connect to 1
+Red wire from Linak transformer - supply 24V - Connect to 4
+
+
+The following wires are inside the pillar cable. 
+Thick cables are for the motor. Thin cables are for potentioimeter.
+Black - potentiometer 0V - 8
+Yellow: Nothing. Do not connect.
+Blue - Motor+ - 3
+Orange - Potentiometer out - 9
+Red - Potentiometer feed 5.5V - 14
+Brown - Motor minus - 2
